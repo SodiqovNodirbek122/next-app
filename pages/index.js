@@ -11,12 +11,12 @@ export default function Home() {
         <div className="slider"></div>
         <div className="top-products">
           <div className="row">
-            <div className="col-lg-6">
+            {/* <div className="col-lg-6">
               <div className="product"></div>
             </div>
             <div className="col-lg-6">
               <div className="product"></div>
-            </div>
+            </div> */}
             {/* <div className="col-lg-6">
               <div className="product"></div>
             </div>
