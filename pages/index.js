@@ -17,12 +17,12 @@ export default function Home() {
             <div className="col-lg-6">
               <div className="product"></div>
             </div>
-            <div className="col-lg-6">
+            {/* <div className="col-lg-6">
               <div className="product"></div>
             </div>
             <div className="col-lg-6">
               <div className="product"></div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
